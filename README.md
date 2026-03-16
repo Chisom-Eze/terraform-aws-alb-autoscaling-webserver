@@ -61,7 +61,9 @@ This project implements a **high availability architecture pattern commonly used
 - Instances are automatically replaced if unhealthy.
 - Infrastructure is defined and managed entirely through Terraform.
   
-![Architecture](screenshots/architecture)
+<p align="center">
+  <img src="screenshots/architecture.png" width="800">
+</p>
 ---
 
 ## Key Infrastructure Features
